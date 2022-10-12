@@ -1,4 +1,6 @@
 ![image](https://user-images.githubusercontent.com/112065370/195415771-4f836db5-599b-4dd1-8bfd-5b448df4c04d.png)
+
+
 start
 Очищаем консоль
 Запрашиваем с клавиатуры текст введенный через пробел
